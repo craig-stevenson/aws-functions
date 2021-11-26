@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@azure/arm-compute": "^16.4.0",
+    "@azure/arm-network": "^25.2.0",
+    "@azure/identity": "^1.5.2"
+  }
+}
